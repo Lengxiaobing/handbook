@@ -1,5 +1,5 @@
 ---
-description: 学习过程记录
+description: 学习笔记
 ---
 
 # 序言
