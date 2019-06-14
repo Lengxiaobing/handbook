@@ -1,8 +1,8 @@
 # Summary
 
-* [博客](https://lengxiaobing.github.io/)
-
 * [序言](README.md)
+
+* [博客](https://lengxiaobing.github.io/)
 
 ### 计算机网络原理
 
